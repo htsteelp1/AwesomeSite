@@ -64,6 +64,7 @@ h2 {
     flex-direction: column;
     align-items: center;
     margin-bottom: 10px;
+    padding-bottom: 150px;
 }
 .randomContent {
     display: flex;
@@ -83,10 +84,17 @@ h2 {
     text-align: center;
 }
 .quoteArea {
-    padding: 250px;
+    padding: 150px;
     background-color: #E5E7EB;
 }
 .quote {
     color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
 
+}
+.author {
+    text-align: end;
+    font-size: 20px;
+    font-weight: 900;
 }
