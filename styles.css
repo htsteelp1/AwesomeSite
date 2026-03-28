@@ -98,3 +98,13 @@ h2 {
     font-size: 20px;
     font-weight: 900;
 }
+.callToAction {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    margin: 100px 300px;
+    padding: 30px;
+    border-radius: 10px;
+}
